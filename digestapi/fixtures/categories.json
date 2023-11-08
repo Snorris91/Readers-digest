@@ -1,22 +1,37 @@
 [
     {
+        "model": "digestapi.category",
         "pk": 1,
-        "name": "Fantasy"
+        "fields": {
+            "name": "Fantasy"
+        }
     },
     {
+        "model": "digestapi.category",
         "pk": 2,
-        "name": "Horror"
+        "fields": {
+            "name": "Romance"
+        }
     },
     {
+        "model": "digestapi.category",
         "pk": 3,
-        "name": "Adventure"
+        "fields": {
+            "name": "Horror"
+        }
     },
     {
+        "model": "digestapi.category",
         "pk": 4,
-        "name": "Romance"
+        "fields": {
+            "name": "Comedy"
+        }
     },
     {
+        "model": "digestapi.category",
         "pk": 5,
-        "name": "Comedy"
+        "fields": {
+            "name": "Adventure"
+        }
     }
 ]
