@@ -1,0 +1,22 @@
+[
+    {
+        "pk": 1,
+        "name": "Fantasy"
+    },
+    {
+        "pk": 2,
+        "name": "Horror"
+    },
+    {
+        "pk": 3,
+        "name": "Adventure"
+    },
+    {
+        "pk": 4,
+        "name": "Romance"
+    },
+    {
+        "pk": 5,
+        "name": "Comedy"
+    }
+]
